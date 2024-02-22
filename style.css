@@ -55,3 +55,13 @@ nav#menu li{
         background-color: rgb(255, 255, 255);
         margin: 0px;
     }
+.conteiner{
+    display: flex;
+    align-items: center;
+    
+
+}
+section{
+    text-align: center;
+    margin: 50px;
+}
