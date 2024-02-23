@@ -1,5 +1,5 @@
 h3{
-    color: rgb(82, 82, 82);
+    color: rgb(41, 41, 41);
 }
 h2{
     color: rgb(32, 32, 32);
@@ -74,6 +74,10 @@ section{
 
 }
 .conteiner3{
+    display: flex;
+    align-items: center;
+}
+.conteiner4{
     display: flex;
     align-items: center;
 }
