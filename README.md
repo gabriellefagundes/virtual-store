@@ -15,5 +15,5 @@ Nesse projeto, foi criado uma loja-virtual na matéria de:
 * Bootstrap 5
 
 ## ✍🏻Autores
-| [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
+| [<img loading="img/eu.jpeg" src="img/eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
 | :---: 
