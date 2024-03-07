@@ -129,5 +129,16 @@ footer{
     color: white;
 }
 h4{
+    background-color: rgb(211, 7, 7);
+}
+a:visited{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Verdana;
+    font-weight: bold;
+    transition: all 0.2s ease;
+}
+a:hover{
     color: rgb(211, 7, 7);
+    transition: 0.6s;
 }
