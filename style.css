@@ -13,9 +13,9 @@ header {
     position: relative;
 }
 #promoção{
-    padding-left: 440px;
-    max-width: 37%;
-    text-align: center;
+    padding-left: px;
+    max-width: 100%;
+    text-align: justify;
 }
 
 nav#menu ul {
@@ -41,7 +41,7 @@ nav#menu h1 {
 }
 
 img {
-    max-width: 200px;
+    max-width: 240px;
 }
 
 nav#menu a:link {
@@ -127,4 +127,7 @@ footer{
     position: relative;
     text-align: center;
     color: white;
+}
+h4{
+    color: rgb(211, 7, 7);
 }
