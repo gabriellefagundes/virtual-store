@@ -1,7 +1,7 @@
 # LOJA-VIRTUAL
 ## 🚀 Começando
 Nesse projeto, foi criado uma loja-virtual na matéria de:
-* Fundamentos de Desenvolvimento Web.
+* Programação Web I.
 
 ## 📋 Sobre o projeto
 O Cardápio Web é uma aplicação web que permite aos usuários visualizar e interagir com cardápios de restaurantes online. Ele oferece recursos como visualização detalhada de itens, pesquisa e possivelmente pedidos online. 
